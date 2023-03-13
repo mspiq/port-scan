@@ -8,7 +8,8 @@ print '''
  | .__/ \___/|_|   \__| |___/\___\__,_|_| |_|
  | |                                         
  |_|                                        
-by virus baghdad
+by Mohamed Salah
+https://www.facebook.com/mspiq
 
 '''
 target = raw_input ("Enter host to scan :")
